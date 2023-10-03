@@ -1,5 +1,5 @@
 import openai
-
+# Lembrando, para usar o openai, você tem que ir no prompet de comando do (vs code, no meu caso e usar o comando "pip install openai".
 openai_api_key = "sua-chave-da-api-openai"
 
 # Defina a lista de usuários com a estrutura de dados desejada
