@@ -1,0 +1,23 @@
+//Dados que se pega no Swagger UI: https://sdw-2023-prd.up.railway.app/swagger-ui/index.html#/Users%20Controller/findById
+// meu exemplo de mascara:
+
+/*
+{
+  "name": " Raul ",
+  "account": {
+    "number": "0038-4",
+    "agency": "0001",
+    "balance": 0.00,
+    "limit": 500.00
+  },
+  "card": {
+    "number": "  ** 4321", 
+    "limit": 1000.0
+  }
+}
+*/
+
+UserID
+4124
+4127
+4128
